@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelQueue", "ParallelQueue\ParallelQueue.csproj", "{C92CF404-14B1-4692-9C93-52B32B433D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92CF404-14B1-4692-9C93-52B32B433D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92CF404-14B1-4692-9C93-52B32B433D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92CF404-14B1-4692-9C93-52B32B433D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92CF404-14B1-4692-9C93-52B32B433D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A737774C-4380-4B78-947E-97CAE9714E3F}
+	EndGlobalSection
+EndGlobal
